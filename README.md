@@ -4,7 +4,7 @@ Projet de supervision de sécurité réalisé à l'**Efrei Paris** (2025-2026, �
 
 ## Rapport
 
-Le rapport complet est dans [`docs/Rapport-Aegis.pdf`](docs/Rapport-Aegis.pdf).
+Le rapport complet est dans [`Rapport-Aegis.pdf`](Rapport final Aegis.pdf).
 
 ## Objectifs
 
